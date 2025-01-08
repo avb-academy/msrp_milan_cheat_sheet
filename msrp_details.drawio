@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="2">
   <diagram id="sSCy-rEspHfgLt2Kc2nP" name="AVTP">
-    <mxGraphModel dx="1305" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Source: IEEE 802.1Q-2011 Clauses 35.2.2.8.4; 35.2.4.2c)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="65" y="1139" width="413" height="30" as="geometry" />
+        <mxCell id="41" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;IEEE 1722-2016 Sec. 7.3&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;IEEE 802.1Q-2011 Sec. 35.2.2.8.4; 35.2.4.2c)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="65" y="1135" width="413" height="30" as="geometry" />
         </mxCell>
         <mxCell id="42" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;Milan Audio BW reservation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=4" parent="1" vertex="1">
           <mxGeometry width="827" height="70" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry x="-115" y="121" width="270" height="28.18" as="geometry" />
         </mxCell>
         <mxCell id="7RQJcW3SvvRyYgcWnsqD-117" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="574.995" y="1139.5" width="201.005" height="30" as="geometry" />
+          <mxGeometry x="574.995" y="1135" width="201.005" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7RQJcW3SvvRyYgcWnsqD-104" value="&lt;em&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Licensed under CC BY 4.0&lt;/font&gt;&lt;/em&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=0;spacing=0;" parent="7RQJcW3SvvRyYgcWnsqD-117" vertex="1">
           <mxGeometry width="180" height="30" as="geometry" />
@@ -333,11 +333,8 @@
         <mxCell id="ZqHhOP9Ci3Jvi2F0wkA9-37" value="CRF&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=48;" parent="1" vertex="1">
           <mxGeometry x="60" y="856" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HbRkXipfImCP3fS7gDr5-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Source: IEEE 802.1Q-2011 Clauses 35.2.2.8.4; 35.2.4.2c)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="65" y="1139" width="413" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="HbRkXipfImCP3fS7gDr5-2" value="" style="group;fillColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="574.995" y="1139.5" width="201.005" height="30" as="geometry" />
+          <mxGeometry x="574.995" y="1135" width="201.005" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HbRkXipfImCP3fS7gDr5-3" value="&lt;em&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Licensed under CC BY 4.0&lt;/font&gt;&lt;/em&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=0;spacing=0;" parent="HbRkXipfImCP3fS7gDr5-2" vertex="1">
           <mxGeometry width="180" height="30" as="geometry" />
@@ -350,6 +347,9 @@
         </mxCell>
         <mxCell id="HbRkXipfImCP3fS7gDr5-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWw6c3BhY2U9InByZXNlcnZlIiB2aWV3Qm94PSI1LjUgLTMuNSA2NCA2NCIgaGVpZ2h0PSI2NHB4IiB3aWR0aD0iNjRweCIgeT0iMHB4IiB4PSIwcHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjAiPiYjeGE7PGc+JiN4YTsJPGNpcmNsZSByPSIyOC44MzYiIGN5PSIyOC41MDEiIGN4PSIzNy43ODUiIGZpbGw9IiNGRkZGRkYiLz4mI3hhOwk8cGF0aCBkPSJNMzcuNDQxLTMuNWM4Ljk1MSwwLDE2LjU3MiwzLjEyNSwyMi44NTcsOS4zNzJjMy4wMDgsMy4wMDksNS4yOTUsNi40NDgsNi44NTcsMTAuMzE0JiMxMDsmIzk7JiM5O2MxLjU2MSwzLjg2NywyLjM0NCw3Ljk3MSwyLjM0NCwxMi4zMTRjMCw0LjM4MS0wLjc3Myw4LjQ4Ni0yLjMxNCwxMi4zMTNjLTEuNTQzLDMuODI4LTMuODIsNy4yMS02LjgyOCwxMC4xNDMmIzEwOyYjOTsmIzk7Yy0zLjEyMywzLjA4NS02LjY2Niw1LjQ0OC0xMC42MjksNy4wODZjLTMuOTYxLDEuNjM4LTguMDU3LDIuNDU3LTEyLjI4NSwyLjQ1N3MtOC4yNzYtMC44MDgtMTIuMTQzLTIuNDI5JiMxMDsmIzk7JiM5O2MtMy44NjYtMS42MTgtNy4zMzMtMy45NjEtMTAuNC03LjAyN2MtMy4wNjctMy4wNjYtNS40LTYuNTI0LTctMTAuMzcyUzUuNSwzMi43NjcsNS41LDI4LjVjMC00LjIyOSwwLjgwOS04LjI5NSwyLjQyOC0xMi4yJiMxMDsmIzk7JiM5O2MxLjYxOS0zLjkwNSwzLjk3Mi03LjQsNy4wNTctMTAuNDg2QzIxLjA4LTAuMzk0LDI4LjU2NS0zLjUsMzcuNDQxLTMuNXogTTM3LjU1NywyLjI3MmMtNy4zMTQsMC0xMy40NjcsMi41NTMtMTguNDU4LDcuNjU3JiMxMDsmIzk7JiM5O2MtMi41MTUsMi41NTMtNC40NDgsNS40MTktNS44LDguNmMtMS4zNTQsMy4xODEtMi4wMjksNi41MDUtMi4wMjksOS45NzJjMCwzLjQyOSwwLjY3NSw2LjczNCwyLjAyOSw5LjkxMyYjMTA7JiM5OyYjOTtjMS4zNTMsMy4xODMsMy4yODUsNi4wMjEsNS44LDguNTE2YzIuNTE0LDIuNDk2LDUuMzUxLDQuMzk5LDguNTE1LDUuNzE1YzMuMTYxLDEuMzE0LDYuNDc2LDEuOTcxLDkuOTQzLDEuOTcxJiMxMDsmIzk7JiM5O2MzLjQyOCwwLDYuNzUtMC42NjUsOS45NzMtMS45OTljMy4yMTktMS4zMzUsNi4xMjEtMy4yNTcsOC43MTMtNS43NzFjNC45OS00Ljg3Niw3LjQ4NC0xMC45OSw3LjQ4NC0xOC4zNDQmIzEwOyYjOTsmIzk7YzAtMy41NDMtMC42NDgtNi44OTUtMS45NDMtMTAuMDU3Yy0xLjI5My0zLjE2Mi0zLjE4LTUuOTgtNS42NTQtOC40NThDNTAuOTg0LDQuODQ0LDQ0Ljc5NSwyLjI3MiwzNy41NTcsMi4yNzJ6IE0zNy4xNTYsMjMuMTg3JiMxMDsmIzk7JiM5O2wtNC4yODcsMi4yMjljLTAuNDU4LTAuOTUxLTEuMDE5LTEuNjE5LTEuNjg1LTJjLTAuNjY3LTAuMzgtMS4yODYtMC41NzEtMS44NTgtMC41NzFjLTIuODU2LDAtNC4yODYsMS44ODUtNC4yODYsNS42NTcmIzEwOyYjOTsmIzk7YzAsMS43MTQsMC4zNjIsMy4wODQsMS4wODUsNC4xMTNjMC43MjQsMS4wMjksMS43OTEsMS41NDQsMy4yMDEsMS41NDRjMS44NjcsMCwzLjE4MS0wLjkxNSwzLjk0NC0yLjc0M2wzLjk0MiwyJiMxMDsmIzk7JiM5O2MtMC44MzgsMS41NjMtMiwyLjc5MS0zLjQ4NiwzLjY4NmMtMS40ODQsMC44OTYtMy4xMjMsMS4zNDMtNC45MTQsMS4zNDNjLTIuODU3LDAtNS4xNjMtMC44NzUtNi45MTUtMi42MjkmIzEwOyYjOTsmIzk7Yy0xLjc1Mi0xLjc1Mi0yLjYyOC00LjE5LTIuNjI4LTcuMzEzYzAtMy4wNDgsMC44ODYtNS40NjYsMi42NTctNy4yNTdjMS43NzEtMS43OSw0LjAwOS0yLjY4Niw2LjcxNS0yLjY4NiYjMTA7JiM5OyYjOTtDMzIuNjA0LDE4LjU1OCwzNS40NDEsMjAuMTAxLDM3LjE1NiwyMy4xODd6IE01NS42MTMsMjMuMTg3bC00LjIyOSwyLjIyOWMtMC40NTctMC45NTEtMS4wMi0xLjYxOS0xLjY4Ni0yJiMxMDsmIzk7JiM5O2MtMC42NjgtMC4zOC0xLjMwNy0wLjU3MS0xLjkxNC0wLjU3MWMtMi44NTcsMC00LjI4NywxLjg4NS00LjI4Nyw1LjY1N2MwLDEuNzE0LDAuMzYzLDMuMDg0LDEuMDg2LDQuMTEzJiMxMDsmIzk7JiM5O2MwLjcyMywxLjAyOSwxLjc4OSwxLjU0NCwzLjIwMSwxLjU0NGMxLjg2NSwwLDMuMTgtMC45MTUsMy45NDEtMi43NDNsNCwyYy0wLjg3NSwxLjU2My0yLjA1NywyLjc5MS0zLjU0MSwzLjY4NiYjMTA7JiM5OyYjOTtjLTEuNDg2LDAuODk2LTMuMTA1LDEuMzQzLTQuODU3LDEuMzQzYy0yLjg5NiwwLTUuMjA5LTAuODc1LTYuOTQxLTIuNjI5Yy0xLjczNi0xLjc1Mi0yLjYwMi00LjE5LTIuNjAyLTcuMzEzJiMxMDsmIzk7JiM5O2MwLTMuMDQ4LDAuODg1LTUuNDY2LDIuNjU4LTcuMjU3YzEuNzctMS43OSw0LjAwOC0yLjY4Niw2LjcxMy0yLjY4NkM1MS4xMTcsMTguNTU4LDUzLjkzOCwyMC4xMDEsNTUuNjEzLDIzLjE4N3oiLz4mI3hhOzwvZz4mI3hhOzwvc3ZnPg==;rotation=0;" parent="HbRkXipfImCP3fS7gDr5-4" vertex="1">
           <mxGeometry width="11" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="KUzNY02Y4OoA_bQGHlFO-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;IEEE 1722-2016 Sec. 10.4&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;IEEE 802.1Q-2011 Sec. 35.2.2.8.4; 35.2.4.2c)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1135" width="413" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
